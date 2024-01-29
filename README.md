@@ -1,6 +1,6 @@
 # Netflix-GPT! 🌟
 
-## LIVE LINK- https://netflixgpt-4ca35.web.app/brouse
+## LIVE LINK- https://shivam-netflixgpt.netlify.app/brouse
 ## 🌐 Tech Stack:
 
 - React
