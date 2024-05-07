@@ -1,6 +1,6 @@
 # Netflix-GPT! 🌟
 
-## LIVE LINK- https://movixex.netlify.app
+## LIVE LINK- https://movixex.netlify.app](https://netflixgpt.netlify.app
 ## 🌐 Tech Stack:
 
 - React
