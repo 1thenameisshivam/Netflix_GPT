@@ -1,9 +1,8 @@
 import { useSelector } from "react-redux";
 import Movielist from "./Movielist";
-import Loader from "./Loader";
 const GptContent = () => {
   const { movieName, movieSearch } = useSelector((store) => store.gpt);
-  if (!movieName || !movieSearch) return <Loader />;
+  if (!movieName || !movieSearch) return null;
 
   return (
     <div className="bg-black bg-opacity-80 text-white p-4 m-4 ">
